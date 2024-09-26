@@ -14,7 +14,7 @@ Cette méthode introduit une **parallélisation** grâce au multi-threading. Plu
 
 Dans cette méthode, la parallélisation est encore utilisée. En plus d'extraire les informations SEO, les nouveaux liens internes trouvés sur chaque page sont sauvegardés et ajoutés à une liste pour un crawling plus complet.
 
-## 4. Crawling asynchrone optimisé
+## 4. Crawling asynchrone 
 
 La dernière méthode utilise toujours **`ThreadPoolExecutor`** un approche **asynchrone**, qui permet de traiter les pages dès que la réponse HTTP est reçue, sans attendre que les autres tâches se terminent. Cela permet un crawling beaucoup plus efficace, particulièrement pour les sites volumineux ou lents à répondre. L’utilisation d'outils comme **`as_completed`** permet d’optimiser encore davantage la gestion des requêtes, rendant cette méthode la plus rapide et la plus adaptée pour les grands sites.
 

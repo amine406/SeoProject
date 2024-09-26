@@ -12,7 +12,7 @@ Cette méthode introduit une **parallélisation** grâce au multi-threading. Plu
 
 ## 3. Crawling multi-threadé avec export avancé
 
-Dans cette méthode, la parallélisation est encore utilisée, mais avec une gestion plus sophistiquée des données. En plus d'extraire les informations SEO, les nouveaux liens internes trouvés sur chaque page sont sauvegardés et ajoutés à une liste pour un crawling plus complet.
+Dans cette méthode, la parallélisation est encore utilisée. En plus d'extraire les informations SEO, les nouveaux liens internes trouvés sur chaque page sont sauvegardés et ajoutés à une liste pour un crawling plus complet.
 
 ## 4. Crawling asynchrone optimisé
 

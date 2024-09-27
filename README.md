@@ -32,6 +32,7 @@ https://www.baeldung.com/cs/async-vs-multi-threading  **comprendre la difference
 
 
 **Guide contruire un Crawler** :
+
 https://levelup.gitconnected.com/multi-threaded-python-web-crawler-for-https-pages-e103f0839b71 
 
 https://www.geeksforgeeks.org/multithreaded-crawler-in-python/

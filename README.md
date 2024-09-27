@@ -27,5 +27,9 @@ La dernière méthode utilise toujours **`ThreadPoolExecutor`** un approche **as
 Ces quatre méthodes montrent ma progression dans l'optimisation des tâches de crawling, depuis un modèle séquentiel simple jusqu’à l’utilisation de multi-threading et d’asynchronisme.
 
 
-#### Documentation
+#### Référence
 https://www.baeldung.com/cs/async-vs-multi-threading
+https://levelup.gitconnected.com/multi-threaded-python-web-crawler-for-https-pages-e103f0839b71
+https://www.geeksforgeeks.org/multithreaded-crawler-in-python/
+https://medium.com/@vdaate/how-to-build-multi-threaded-web-scraper-in-python-605f7d29dae
+https://github.com/kshru9/Web-Crawler

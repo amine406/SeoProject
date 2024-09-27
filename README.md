@@ -29,7 +29,7 @@ Ces quatre méthodes montrent ma progression dans l'optimisation des tâches de 
 
 ## Référence
 
-**comprendre la difference entre asynchrone et le multithreading**:
+**comprendre la difference entre asynchrone et le multithreading** :
 
 https://www.baeldung.com/cs/async-vs-multi-threading  
 

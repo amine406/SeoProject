@@ -28,9 +28,11 @@ Ces quatre méthodes montrent ma progression dans l'optimisation des tâches de 
 
 
 #### Référence
-https://www.baeldung.com/cs/async-vs-multi-threading
+https://www.baeldung.com/cs/async-vs-multi-threading  **comprendre la difference entre asynchrone et le multithreading**
 
-https://levelup.gitconnected.com/multi-threaded-python-web-crawler-for-https-pages-e103f0839b71
+
+**Guide contruire un Crawler** :
+https://levelup.gitconnected.com/multi-threaded-python-web-crawler-for-https-pages-e103f0839b71 
 
 https://www.geeksforgeeks.org/multithreaded-crawler-in-python/
 

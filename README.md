@@ -27,8 +27,11 @@ La dernière méthode utilise toujours **`ThreadPoolExecutor`** un approche **as
 Ces quatre méthodes montrent ma progression dans l'optimisation des tâches de crawling, depuis un modèle séquentiel simple jusqu’à l’utilisation de multi-threading et d’asynchronisme.
 
 
-#### Référence
-https://www.baeldung.com/cs/async-vs-multi-threading  **comprendre la difference entre asynchrone et le multithreading**
+## Référence
+
+**comprendre la difference entre asynchrone et le multithreading**:
+
+https://www.baeldung.com/cs/async-vs-multi-threading  
 
 
 **Guide contruire un Crawler** :
